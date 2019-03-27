@@ -1,2 +1,2 @@
 # mtmstudyo_analysis
-MTMStudio: soft and documentation for data analysis
+MTMStudyo: soft and documentation for data analysis
